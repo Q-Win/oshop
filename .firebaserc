@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "oshop-a76cb": {
+      "hosting": {
+        "oshop": [
+          "oshop-a76cb"
+        ]
+      }
+    }
+  }
+}
